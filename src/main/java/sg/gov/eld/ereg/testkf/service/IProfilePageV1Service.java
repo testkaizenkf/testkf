@@ -2,8 +2,8 @@ package sg.gov.eld.ereg.testkf.service;
 
 import com.ecquaria.lowcode.base.R;
 
-public interface IMainPageV1Service {
+public interface IProfilePageV1Service {
 
-    R<?> login ();
+    R<?> profiletest ();
 
 }
